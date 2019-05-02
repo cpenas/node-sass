@@ -1,4 +1,4 @@
-FROM node:10.15.3-stretch
+FROM node:12.1.0-stretch
 
 LABEL maintainer="cedric.penas@gmail.com"
 
